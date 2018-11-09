@@ -30,7 +30,7 @@
   .main {
     -webkit-box-flex: 3;
     -ms-flex: 3 0px;
-    flex: 3 auto;
+    flex: 2 auto;
     -webkit-box-ordinal-group: 2;
     -ms-flex-order: 1;
     order: 1;
